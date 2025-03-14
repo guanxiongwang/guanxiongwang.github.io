@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: <homepaget style="color:black; font-size:300%; font-family:Courier New;">👋🏻 WELCOME!</homepaget>
+title: <homepaget style="color:black; font-size:300%; font-family:Courier New;">WELCOME 👋🏻</homepaget>
 author_profile: true
 redirect_from: 
   - /about/

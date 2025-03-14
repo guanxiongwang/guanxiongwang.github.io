@@ -4,7 +4,7 @@ title: <welcome style="color:black; font-size:300%; font-family:Courier New;">WE
 author_profile: true
 redirect_from: 
   - /about/
-  - /about.html
+  - /about-me.html
 ---             
 To know a little more about me, click [About](https://guanxiongwang.github.io//about-me/).
 

@@ -94,8 +94,8 @@
   }
 
   img {
-    max-width: 1000px; <!-- The size of the avatar in pixels -->
-    border-radius: 35%; <!-- The boarder radius as a percentage, 0% will render a square -->
+    max-width: 1000px; /*The size of the avatar in pixels*/
+    border-radius: 35%; /*The boarder radius as a percentage, 0% will render a square*/
 
     @include breakpoint($large) {
       padding: 5px;

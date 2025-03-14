@@ -1,14 +1,11 @@
 ---
 permalink: /
-title: <homepaget style="color:black;">👋🏻 WELCOME!</homepaget>
+title: <homepaget style="color:black;" style = "font-size:200%;">👋🏻 WELCOME!</homepaget>
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-
-
 
 
 

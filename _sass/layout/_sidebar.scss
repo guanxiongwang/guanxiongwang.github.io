@@ -98,8 +98,8 @@
     border-radius: 35%; /* The boarder radius as a percentage, 0% will render a square, 50% will render a full-circle */
 
     @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid var(--global-border-color);
+      padding: 15px;
+      border: 10px solid var(--global-border-color);
     }
   }
 }

@@ -94,8 +94,8 @@
   }
 
   img {
-    max-width: 500px; /* The size of the avatar in pixels */
-    border-radius: 50%; /* The boarder radius as a percentage, 0% will render a square, 50% will render a full-circle */
+    max-width: 500px; #//The size of the avatar in pixels//
+    border-radius: 50%; #// The boarder radius as a percentage, 0% will render a square, 50% will render a full-circle //
 
     @include breakpoint($large) {
       padding: 5px;

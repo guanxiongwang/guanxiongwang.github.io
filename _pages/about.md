@@ -9,7 +9,7 @@ redirect_from:
 
 <span style="color: rgba(0, 0, 0, 1);">If you are interested in my profile, head to my [CV](https://guanxiongwang.github.io//files/CV_github.pdf). 
 
-If you want to know more about me as a XXX major PhD student solving the climate challenge, check out my [Research]([https://guanxiongwang.github.io//files/CV_github.pdf](https://guanxiongwang.github.io//publications/).
+If you want to know more about me as a XXX major PhD student solving the climate challenge, check out my [Research](https://guanxiongwang.github.io//publications/).
 
 </span>
 

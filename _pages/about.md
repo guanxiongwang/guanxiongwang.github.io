@@ -5,11 +5,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----                
-
-
-
-
+---             
 
 If you are interested in my profile, head to my [CV](https://guanxiongwang.github.io//files/CV_github.pdf).   
 
@@ -20,7 +16,3 @@ To see my teaching experience, go to my [Teaching](https://guanxiongwang.github.
 To view my photo works about nature, cat, and the world, direct to my [Photography](https://guanxiongwang.github.io//portfolio/).    
 
 For other things, find me at [scholar email], [personal email], or other links listed on the left.
-
-
-
-

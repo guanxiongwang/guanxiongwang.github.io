@@ -5,7 +5,7 @@
 # prevent it from being included in the site.
 
 main:
-  - title: <outabout style="color:rgba(5, 140, 85, 1);">About</outabout> #Blog Posts
+  - title: <outerabout style="color:rgba(5, 140, 85, 1);">About</outerabout> #Blog Posts
     url: /year-archive/
     
   - title: "CV"

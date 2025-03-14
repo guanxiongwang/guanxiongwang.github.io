@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---             
+To know a little more about me, click [About](https://guanxiongwang.github.io//year-archive/).
 
 If you are interested in my profile, head to my [CV](https://guanxiongwang.github.io//files/CV_github.pdf).   
 

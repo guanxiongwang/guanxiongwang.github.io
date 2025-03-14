@@ -7,7 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-<lines style="color:black;">If you are interested in my profile, head to my [CV](https://guanxiongwang.github.io//files/CV_github.pdf).</lines>
+
+
+
+
+
+
+
+
+If you are interested in my profile, head to my [CV](https://guanxiongwang.github.io//files/CV_github.pdf).
 
 If you want to know more about me as a XXX major PhD student solving the climate challenge, check out my [Research(https://guanxiongwang.github.io//publications/). 
 

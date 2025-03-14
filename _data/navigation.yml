@@ -12,7 +12,7 @@ main:
     url: /files/CV_github.pdf
     
   - title: "Research" #Publications
-    url: /publications/
+    url: /research/
     
   - title: "Teaching"
     url: /teaching/  
@@ -21,7 +21,7 @@ main:
     url: /portfolio/  
     
   - title: "Contact" #Talks
-    url: /talks/    
+    url: /contact/    
 
 #  - title: "Guide"
 #    url: /markdown/

@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: <homepaget style="color:black;" style = "font-size:500%;" style = "font-family:courier;">👋🏻 WELCOME!</homepaget>
+title: <homepaget style="color:black; font-size:500%; font-family:courier;">👋🏻 WELCOME!</homepaget>
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+<font face="Arial" size="4" color="green">This paragrap style by font tag</font>
 
 
 <l1 style="color:black;">If you are interested in my profile, head to my [CV](https://guanxiongwang.github.io//files/CV_github.pdf).</l1>

@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Homepage, style = color:black;"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Guanxiong(Tony) Wang"
 description              : &description "personal description"

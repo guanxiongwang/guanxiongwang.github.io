@@ -25,7 +25,7 @@ author:
   avatar           : "profile_img_github.jpg"
   name             : "Guanxiong(Tony) Wang"
   pronouns         : "He/him/his"
-  bio              : "A human and cat observer"
+  bio              : *"A human and cat observer"*
   location         : "Pending"
   employer         : "Pending"
   uri              : # URL

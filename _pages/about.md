@@ -1,20 +1,18 @@
 ---
 permalink: /
-title: <homepaget style="color:black; font-size:300%; font-family:Courier New;">WELCOME</homepaget>
+title: <welcome style="color:black; font-size:300%; font-family:Courier New;">WELCOME</welcome>
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+---
 ---
 
 
 
 
 
-
-
-
-
+---
 If you are interested in my profile, head to my [CV](https://guanxiongwang.github.io//files/CV_github.pdf).
 
 If you want to know more about me as a XXX major PhD student solving the climate challenge, check out my [Research(https://guanxiongwang.github.io//publications/). 

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: <welcome style="color:black; font-size:300%; font-family:Courier New; font-stretch: expanded; line-height:1.6;"><strong><ins>WELCOME</ins></strong></welcome>
+title: <welcome style="color:black; font-size:300%; font-family:Courier New; font-weight: bold; line-height:1.6;"><strong><ins>WELCOME</ins></strong></welcome>
 author_profile: true
 redirect_from: 
   - /about/

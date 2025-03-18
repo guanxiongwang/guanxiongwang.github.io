@@ -6,6 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---             
+![Add some color to Homepage](images/Homepage_cover.jpg){: .align-right width = “500 px”}
+
 To know a little more about me, click [About](https://guanxiongwang.github.io//about-me/).
 
 If you are interested in my profile, head to my [CV](https://guanxiongwang.github.io//files/CV_github.pdf).   

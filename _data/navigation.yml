@@ -5,22 +5,22 @@
 # prevent it from being included in the site.
 
 main:
-  - title: <innerabout style="color:rgba(2, 212, 2, 1);">About</innerabout> #Blog Posts
+  - title: <innerabout style="color:rgba(0, 215, 0, 1);">About</innerabout> #Blog Posts
     url: /about-me/
     
-  - title: "CV"
+  - title: <innerabout style="color:rgba(0, 215, 0, 1);">CV</innerabout>
     url: /files/CV_github.pdf
     
-  - title: "Research" #Publications
+  - title: <innerabout style="color:rgba(0, 215, 0, 1);">Research</innerabout> #Publications
     url: /research/
     
-  - title: "Teaching"
+  - title: <innerabout style="color:rgba(0, 215, 0, 1);">Teaching</innerabout>
     url: /teaching/  
 
-  - title: "Photography"
+  - title: <innerabout style="color:rgba(0, 215, 0, 1);">Photography</innerabout>
     url: /photography/  
     
-  - title: "Contact" #Talks
+  - title: <innerabout style="color:rgba(0, 215, 0, 1);">Contact</innerabout> #Talks
     url: /contact/    
 
 #  - title: "Guide"

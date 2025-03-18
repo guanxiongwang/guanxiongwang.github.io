@@ -11,7 +11,7 @@ main:
   - title: <innercv style="color:rgba(0, 215, 0, 1);">CV</innercv>
     url: /files/CV_github.pdf
     
-  - title: "Research" #Publications
+  - title: <innerresearch style="color:rgba(0, 215, 0, 1);">Research</innerresearch>  #Publications
     url: /research/
     
   - title: "Teaching"

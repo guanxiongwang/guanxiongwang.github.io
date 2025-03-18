@@ -5,13 +5,13 @@
 # prevent it from being included in the site.
 
 main:
-  - title: <innerabout style="color:rgba(0, 215, 0, 1);">About</innerabout> #Blog Posts
+  - title: "About" #Blog Posts
     url: /about-me/
     
-  - title: <innercv style="color:rgba(0, 215, 0, 1);">CV</innercv>
+  - title: "CV"
     url: /files/CV_github.pdf
     
-  - title: <innerresearch style="color:rgba(0, 215, 0, 1);">Research</innerresearch>  #Publications
+  - title: "Research"  #Publications
     url: /research/
     
   - title: "Teaching"

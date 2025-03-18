@@ -8,19 +8,19 @@ main:
   - title: <innerabout style="color:rgba(0, 215, 0, 1);">About</innerabout> #Blog Posts
     url: /about-me/
     
-  - title: <innerabout style="color:rgba(0, 215, 0, 1);">CV</innerabout>
+  - title: <innercv style="color:rgba(0, 215, 0, 1);">CV</innercv>
     url: /files/CV_github.pdf
     
-  - title: <innerabout style="color:rgba(0, 215, 0, 1);">Research</innerabout> #Publications
+  - title: <innerresearch style="color:rgba(0, 215, 0, 1);">Research</innerresearch> #Publications
     url: /research/
     
-  - title: <innerabout style="color:rgba(0, 215, 0, 1);">Teaching</innerabout>
+  - title: <innerteaching style="color:rgba(0, 215, 0, 1);">Teaching</innerteaching>
     url: /teaching/  
 
-  - title: <innerabout style="color:rgba(0, 215, 0, 1);">Photography</innerabout>
+  - title: <innerphotography style="color:rgba(0, 215, 0, 1);">Photography</innerphotography>
     url: /photography/  
     
-  - title: <innerabout style="color:rgba(0, 215, 0, 1);">Contact</innerabout> #Talks
+  - title: <innercontact style="color:rgba(0, 215, 0, 1);">Contact</innercontact> #Talks
     url: /contact/    
 
 #  - title: "Guide"

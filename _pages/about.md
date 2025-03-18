@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---             
-![Homepage image](/images/Homepage_cover.jpg){: .align-right width=“50px”}
+![Homepage image](/images/Homepage_cover.jpg){:.align-right}
 
 To know a little more about me, click [About](https://guanxiongwang.github.io//about-me/).
 

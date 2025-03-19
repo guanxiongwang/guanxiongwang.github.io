@@ -7,13 +7,11 @@ redirect_from:
   - /wordpress/blog-posts/
 ---
 
-{% include base_path %}
-{% capture written_year %}'None'{% endcapture %}
-{% for post in site.posts %}
-  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-  {% if year != written_year %}
-    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
-    {% capture written_year %}{{ year }}{% endcapture %}
-  {% endif %}
-  {% include archive-single.html %}
-{% endfor %}
+Current role: I am an incoming Ph.D. student in XXX at XXX.
+
+Research interest & ongoing project: My research interests lie at the intersection of social psychology and global climate change, exploring the roles of political ideology, social influence, and behavioral science to drive effective, targeted, and inclusive climate action. My goal is to advance climate communication and policy through an empirically grounded understanding of how individuals and groups respond to climate challenges.
+
+Previous role: I graduated in 2021 from the University of Miami where I studied Psychology and minored in Studio Art, Political Science, Philosophy, English Literature, and Management. During my senior year, I began working part-time as a Research Specialist with the Behavioral Science for Policy Lab at Princeton University, where I worked until 2023.
+
+In free time: In my work as an artist, I primarily use portraiture to explore the human condition and my own experiences. Extending my artistic pursuits into filmmaking, my short film, waterlogged, blends my academic research with my passion for storytelling and visual arts.
+In my free time, I enjoy painting, pickleball, rock climbing, Citibiking around NYC, and thru-hiking trails like the Camino de Santiago and Via Alpina.

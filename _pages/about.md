@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---      
-<img src="/images/Homepage_cover.jpg" alt="" width="275" height="200" style="float:right">
+<img src="/images/Homepage_cover.jpg" alt="" width="275" height="300" style="float:right">
 To know a little more about me, click [About](https://guanxiongwang.github.io//about-me/). 
 
 If you are interested in my profile, head to my [CV](https://guanxiongwang.github.io//files/CV_github.pdf). 
@@ -20,6 +20,11 @@ To view my photo works about nature, cat, and the world, direct to my [Photograp
 For other things, find me at [Contact](https://guanxiongwang.github.io//contact/).
 
 ------
-<img src="/images/Homepage_cover9.jpg" alt="" width="240" height="180" style="float:left">
-<img src="/images/Homepage_cover6.jpg" alt="" width="250" height="140" style="float:center">
-<img src="/images/Homepage_cover8.jpg" alt="" width="250" height="150" style="float:right">
+<img src="/images/Homepage_cover9.jpg" alt="" width="253" height="150" style="float:left">
+<img src="/images/Homepage_cover8.jpg" alt="" width="253" height="150" style="float:right">
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+<img src="/images/Homepage_cover6.jpg" alt="" style="width:25%;">

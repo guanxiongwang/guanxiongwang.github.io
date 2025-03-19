@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---      
-To know a little more about me, click [About](https://guanxiongwang.github.io//about-me/). 
-
 <img src="/images/Homepage_cover.jpg" alt="" width="300" height="200" style="float:right">
+
+To know a little more about me, click [About](https://guanxiongwang.github.io//about-me/). 
 
 If you are interested in my profile, head to my [CV](https://guanxiongwang.github.io//files/CV_github.pdf). 
 

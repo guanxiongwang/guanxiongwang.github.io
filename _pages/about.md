@@ -22,9 +22,11 @@ For other things, find me at [Contact](https://guanxiongwang.github.io//contact/
 ------
 <img src="/images/Homepage_cover9.jpg" alt="" width="253" height="150" style="float:left">
 <img src="/images/Homepage_cover8.jpg" alt="" width="253" height="150" style="float:right">
-img {
+<style>
+  img {
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
+</style>
 <img src="/images/Homepage_cover6.jpg" alt="" style="width:25%;">

@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---      
-<img src="/images/Homepage_cover.jpg" alt="" width="600" height="400" style="float:right">
+<img src="/images/Homepage_cover.jpg" alt="" width="300" height="200" style="float:right">
 
 To know a little more about me, click [About](https://guanxiongwang.github.io//about-me/). 
 

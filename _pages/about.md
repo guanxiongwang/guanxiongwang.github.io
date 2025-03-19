@@ -14,7 +14,7 @@ If you want to know more about me as a XXX major PhD student solving the climate
 
 To see my teaching experience, go to my [Teaching](https://guanxiongwang.github.io//teaching/). 
 
-To view my photo works about nature, cat, and the world, direct to my [Photography](https://guanxiongwang.github.io//photography/). 
+To view my photo works about nature, cat, and the world, direct to my [Photography](https://guanxiongwang.github.io//photography/),
 
 For other things, find me at [Contact](https://guanxiongwang.github.io//contact/).
 

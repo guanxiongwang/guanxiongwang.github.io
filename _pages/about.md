@@ -32,6 +32,6 @@ For other things, find me at [Contact](https://guanxiongwang.github.io//contact/
 }
 </style>
 
-<img src="/images/Homepage_cover.jpg" alt="" style="width:70%;">
+<img src="/images/Homepage_cover.jpg" alt="" style="width:75%;">
 
 ------

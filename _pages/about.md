@@ -20,6 +20,6 @@ To view my photo works about nature, cat, and the world, direct to my [Photograp
 For other things, find me at [Contact](https://guanxiongwang.github.io//contact/).
 
 ------
-<img src="/images/Homepage_cover9.jpg" alt="" width="200" height="150" style="float:left">
-<img src="/images/Homepage_cover6.jpg" alt="" width="200" height="150" style="vertical-align:middle">
-<img src="/images/Homepage_cover8.jpg" alt="" width="200" height="150" style="float:right">
+<img src="/images/Homepage_cover9.jpg" alt="" width="250" height="150" style="float:left">
+<img src="/images/Homepage_cover6.jpg" alt="" width="250" height="150" style="float:center">
+<img src="/images/Homepage_cover8.jpg" alt="" width="250" height="150" style="float:right">

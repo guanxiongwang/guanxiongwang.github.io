@@ -33,6 +33,6 @@ For other things, find me at [Contact](https://guanxiongwang.github.io//contact/
 }
 </style>
 
-<img src="/images/Homepage_cover9.jpg" alt="" style="width:80%;">
+<img src="/images/Homepage_cover9.jpg" alt="" style="width:70%;">
 
 ------

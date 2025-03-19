@@ -5,9 +5,12 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----             
+---      
+
 <img style="float: right;" alt="" src="/images/Homepage_cover.jpg" />
+
 <div style="clear: right">
+  
   To know a little more about me, click [About](https://guanxiongwang.github.io//about-me/).
 
   If you are interested in my profile, head to my [CV](https://guanxiongwang.github.io//files/CV_github.pdf).
@@ -19,6 +22,7 @@ redirect_from:
   To view my photo works about nature, cat, and the world, direct to my [Photography](https://guanxiongwang.github.io//photography/).
 
   For other things, find me at [Contact](https://guanxiongwang.github.io//contact/).
+  
 </div> 
 
 

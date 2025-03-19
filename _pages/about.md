@@ -25,5 +25,14 @@ For other things, find me at [Contact](https://guanxiongwang.github.io//contact/
 
 <empty3 style="color:rgba(5, 140, 85, 1);"></empty3>
 
-======
+<style>
+  img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+<img src="/images/Homepage_cover9.jpg" alt="" style="width:80%;">
+
 ------

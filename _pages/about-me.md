@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /wordpress/blog-posts/
 ---
-<p>I am an incoming Ph.D. student in XXX at XXX.</p>
+I am an incoming Ph.D. student in XXX at XXX.
 
 <p>My research interests lie at the intersection of environmental psychology and the global climate challenge. Broadly speaking, my research aims to unravel three questions:</p> 
 <p><b>1) How do individuals across different societies perceive, evaluate, and respond to global climate change?</b></p>

@@ -16,4 +16,4 @@ My research interests lie at the intersection of environmental psychology and th
 
 Before joining XXX, I earned my bachelor's and master's degree in 2019 and 2021, respectively, from the University of Illinois at Urbana-Champaign and the University of Pennsylvania where I studied Natural Resources and Environmental Sciences and Environmental Sustainability. After graduation, I worked for over a year as an Advisory Associate at PricewaterhouseCoopers (PwC) China, delivering business solutions to clients in the food industry.
 
-In my free time, I enjoy observing and petting cats, capturing the beauty of the world via photography, working out, and visiting art museums.
+In my free time, I enjoy observing and petting cats, capturing the beauty of the world via [photography](https://guanxiongwang.github.io//photography/), working out, and visiting art museums.

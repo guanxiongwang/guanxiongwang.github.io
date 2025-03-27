@@ -1,12 +1,20 @@
 # main links
 main:
-  - title: "Home"
-    url: https://paigem.github.io
-  - title: "Research"
-    url: /research/
-  - title: "Open Science"
-    url: /open-science/
-  - title: "Capacity Sharing"
-    url: /capacity-sharing/
+  - title: "About" #Home
+    url: /about-me/
+    
   - title: "CV"
     url: /assets/Paige_CV.pdf
+    
+  - title: "Research"
+    url: /research/
+
+  - title: "Teaching"
+    url: /teaching/    
+    
+  - title: "Photography" #Open Science
+    url: /photography/
+    
+  - title: "Contact" #Capacity Sharing
+    url: /contact/
+

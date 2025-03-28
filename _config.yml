@@ -102,7 +102,9 @@ analytics:
     anonymize_ip         : # true, false (default)
 
 
-# Site Author
+# Site Author - The following control what appear as part of the author content on the side bar.
+#               If a field is blank the icon and link will not appear, otherwise it will be shown.
+#               Additional customization can be done by editing /_includes/author-profile.html
 author:
   avatar           : "/assets/images/Guanxiong(Tony)_photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   name             : "Guanxiong(Tony) Wang"
@@ -110,32 +112,52 @@ author:
   bio              : "<em>A human and cat observer</em>"
   location         : "Pending"
   employer         : "Pending"
-  email            :
-  links:
-    #- label: "Email"
-      #icon: "fas fa-fw fa-envelope-square"
-      #url: "mailto:ms.paigem@gmail.com"
-     #- label: "Google Scholar"
-      #icon: "fab fa-fw fa-graduation-cap"
-      #url: "https://github.com/guanxiongwang"
-    #- label: "Website"
-      #icon: "fas fa-fw fa-link"
-      #url: "https://paigem.github.io"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/guanxiongwang"
-    #- label: "LinkedIn"
-      #icon: "fab fa-fw fa-linkedin"
-      #url: "https://www.linkedin.com/in/paige-martin-phd/"
-    #- label: "X (formerly Twitter)"
-      #icon: "fab fa-fw fa-twitter-square"
-      #url: "https://twitter.com/SciencePaige"
-    #- label: "Facebook"
-      #icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    #- label: "Instagram"
-      #icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+  uri              : # URL
+  email            : "Pending" 
+
+  # Academic websites
+  arxiv            : # URL - Update with the correct link to your profile
+  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  impactstory      : # URL
+  orcid            : #"http://orcid.org/yourorcidurl"
+  semantic         : # URL
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : # URL
+  scopus           : # URL
+
+  # Repositories and software development
+  bitbucket        : # Username - Update with your username on the site
+  codepen          : # Username
+  dribbble         : # Username
+  github           : "guanxiongwang"
+  kaggle           : # Username  
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+
+  # Social media
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
+  facebook         : # Username
+  flickr           : # Username
+  foursquare       : # Username
+  goodreads        : # Username
+  google_plus      : # Username
+  keybase          : # Username
+  instagram        : # Username
+  lastfm           : # Username
+  linkedin         : # Username
+  mastodon         : # URL
+  medium           : # URL
+  pinterest        : # Username
+  soundcloud       : # Username
+  steam            : # Username
+  telegram         : # URL
+  tumblr           : # Username
+  twitter          : # Username for X / Twitter
+  vine             : # Username
+  weibo            : # Username
+  wikipedia        : # Username
+  xing             : # Username
+  youtube          : # Username
+  zhihu            : # Username
 
 # Site Footer
 footer:

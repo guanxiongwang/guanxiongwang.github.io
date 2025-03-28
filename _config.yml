@@ -104,8 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Guanxiong(Tony) Wang"
   avatar           : "/assets/images/Guanxiong(Tony)_photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Guanxiong(Tony) Wang"
+  pronouns         : "He/him/his"
   bio              : "<em>A human and cat observer</em>"
   location         : "Pending"
   employer         : "Pending"

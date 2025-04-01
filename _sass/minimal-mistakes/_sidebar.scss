@@ -88,9 +88,10 @@
 }
 
 /*
+
    Author profile and links
    ========================================================================== */
-
+#controlling the image size of author's avatar
 .author__avatar {
   display: table-cell;
   vertical-align: top;
@@ -104,7 +105,7 @@
   }
 
   img {
-    max-width: 110px;
+    max-width: 150px;
     border-radius: 50%;
 
     @include breakpoint($large) {

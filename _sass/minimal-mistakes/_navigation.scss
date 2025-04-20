@@ -511,11 +511,12 @@
   border-radius: $border-radius;
   -webkit-box-shadow: $box-shadow;
   box-shadow: $box-shadow;
-
+ 
+   // nav_title controls the style of title of the navigation table of content in the pages. color represents color of the title, background represents the background color of the title
   .nav__title {
     color: #fff;
     font-size: $type-size-6;
-    background: #02e06a;
+    background: #00c95e;
     border-top-left-radius: $border-radius;
     border-top-right-radius: $border-radius;
   }

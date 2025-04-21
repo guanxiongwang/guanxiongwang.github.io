@@ -545,9 +545,9 @@
     font-weight: bold;
     line-height: 1.5;
     border-bottom: 1px solid $border-color;
-
+  // hover color changes the color of the texts, except for the title, in the table of content when hovering over them
     &:hover {
-      color: #9bfac7;
+      color: $text-color;
     }
   }
 

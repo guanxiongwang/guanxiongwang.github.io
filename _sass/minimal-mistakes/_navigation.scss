@@ -537,17 +537,17 @@
   @include breakpoint($large) {
     font-size: $type-size-7;
   }
-
+  // color changes the color of the texts, except for the title, in the table of content
   a {
     display: block;
     padding: 0.25rem 0.75rem;
-    color: #9bfac7;
+    color: $muted-text-color;
     font-weight: bold;
     line-height: 1.5;
     border-bottom: 1px solid $border-color;
 
     &:hover {
-      color: $text-color;
+      color: #9bfac7;
     }
   }
 

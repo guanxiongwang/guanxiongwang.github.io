@@ -216,7 +216,7 @@ textarea[readonly] {
 
 input:focus,
 textarea:focus {
-  border-color: #54d690;
+  border-color: $primary-color;
   outline: 0;
   outline: thin dotted \9;
   box-shadow: inset 0 1px 3px rgba($text-color, 0.06),

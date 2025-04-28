@@ -19,7 +19,7 @@
   cursor: pointer;
   -webkit-transition: 0.2s;
   transition: 0.2s;
-//color controls the color of search icon when hovering over it
+//color controls the color of search icon when hovering over it; $primary-color is red, change it to #02bf15 (a green appropriate color) when necessary
   &:hover {
     color: mix(#000, $primary-color, 25%);
   }

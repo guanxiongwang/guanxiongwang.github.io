@@ -236,7 +236,7 @@
 
     a {
       position: relative;
-
+    //background controls the color of navigation titles when hovering over them
       &:before {
         content: "";
         position: absolute;

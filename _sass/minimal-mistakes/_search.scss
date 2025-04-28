@@ -21,7 +21,7 @@
   transition: 0.2s;
 
   &:hover {
-    color: mix(#000, #02bf15, 25%);
+    color: mix(#000, $primary-color, 25%);
   }
 }
 
@@ -120,13 +120,13 @@
 }
 
 .archive__item-title .ais-Highlight {
-  color: #00b052;
+  color: $primary-color;
   font-style: normal;
   text-decoration: underline;
 }
 
 .archive__item-excerpt .ais-Highlight {
-  color: #00b052;
+  color: $primary-color;
   font-style: normal;
   font-weight: bold;
 }

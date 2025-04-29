@@ -8,6 +8,7 @@ header:
   #overlay_color: "#000"
   #overlay_filter: "0"
   overlay_image: assets/Homepage_cover.jpg
+  height: 200px
   #actions:
     #- label: "Download CV"
       #url: "assets/Paige_CV.pdf"

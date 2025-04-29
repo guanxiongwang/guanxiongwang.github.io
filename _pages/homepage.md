@@ -34,7 +34,7 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--inverse"
 ---
-# <b><u>WELCOME<b><u>
+# WELCOME
 
 To know a little more about me, click [About](https://guanxiongwang.github.io/about-me/).
 

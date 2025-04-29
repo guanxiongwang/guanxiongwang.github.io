@@ -34,19 +34,12 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--inverse"
 ---
+
 # WELCOME
 
-To know a little more about me, click [About](https://guanxiongwang.github.io/about-me/).
+Hi, I'm Paige! 👋  I am a scientist by training, with a background in climate data science 👩‍💻 and physical oceanography 🌊. I have years of scientific and technical expertise in large-scale data analysis, open-source software, and cloud computing. By using open-source technology and human connection, I work to support and enable open science. I envision a future with robust, transparent, and inclusive scientific research, and believe that open science frameworks are the best tools to achieve this vision.
 
-If you are interested in my profile, head to my [CV](https://guanxiongwang.github.io/assets/Guanxiong(Tony)'s%20CV.pdf). 
-
-If you want to know more about me as a XXX major PhD student solving the climate challenge, check out my [Research](https://guanxiongwang.github.io/research/). 
-
-To see my teaching experience, go to my [Teaching](https://guanxiongwang.github.io/teaching/). 
-
-To view my photo works about nature, cat, and the world, direct to my [Photography](https://guanxiongwang.github.io/photography/).
-
-For other things, find me at [Contact](https://guanxiongwang.github.io/contact/).
+Click on the links below to learn more about what I love to do!
 
 {% include feature_row %}
 

@@ -1,8 +1,8 @@
 ---
-title: "Capacity Sharing"
+title: "Photography"
 layout: single
 sitemap: true
-permalink: /capacity-sharing/
+permalink: /photography/
 author_profile: true
 toc: true
 toc_label: "Capacity Sharing"

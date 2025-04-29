@@ -5,8 +5,8 @@ sitemap: true
 permalink: /
 author_profile: true
 header:
-  #overlay_color: "#000"
-  #overlay_filter: "0"
+  overlay_color: "#000"
+  overlay_filter: "0.1"
   image: assets/Homepage_cover.jpg
   caption: "Image credit: [Claude Monet, Path in the Wheat Fields at Pourville, 1882. Oil on canvas, Denver Art Museum, Denver](https://www.denverartmuseum.org/en/collection/european-and-american-art)"
   #actions:

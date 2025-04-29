@@ -7,7 +7,7 @@ author_profile: true
 header:
   #overlay_color: "#000"
   #overlay_filter: "0"
-  image: assets/Homepage_cover.jpg
+  og_image: assets/Homepage_cover.jpg
   #actions:
     #- label: "Download CV"
       #url: "assets/Paige_CV.pdf"

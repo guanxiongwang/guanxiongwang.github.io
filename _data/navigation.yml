@@ -1,16 +1,16 @@
 # main links
 main:
-  - title: "About"
+  - title: "About" #newly added
     url: /about-me/
   - title: "CV"
     url: /assets/Guanxiong(Tony)'s CV.pdf
-  - title: "Research" #Publications
+  - title: "Research" #Research
     url: /research/
-  - title: "Teaching"
+  - title: "Teaching" #Open science
     url: /teaching/
-  - title: "Photography"
+  - title: "Photography" #Capacity sharing
     url: /photography/
-  - title: "Contact" 
+  - title: "Contact" #newly added
     url: /contact/  
 #  - title: "Guide"
 #    url: /markdown/

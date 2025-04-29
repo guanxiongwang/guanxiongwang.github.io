@@ -1,8 +1,8 @@
 ---
-title: "Open Science"
+title: "Teaching"
 layout: single
 sitemap: true
-permalink: /open-science/
+permalink: /teaching/
 author_profile: true
 toc: true
 toc_label: "Open Science"

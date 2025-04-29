@@ -32,7 +32,7 @@ feature_row:
     btn_class: "btn--inverse"
 ---
 
-# WELCOME
+# About
 
 Hi, I'm Paige! 👋  I am a scientist by training, with a background in climate data science 👩‍💻 and physical oceanography 🌊. I have years of scientific and technical expertise in large-scale data analysis, open-source software, and cloud computing. By using open-source technology and human connection, I work to support and enable open science. I envision a future with robust, transparent, and inclusive scientific research, and believe that open science frameworks are the best tools to achieve this vision.
 

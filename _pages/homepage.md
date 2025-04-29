@@ -5,8 +5,8 @@ sitemap: true
 permalink: /
 author_profile: true
 header:
-  overlay_color: "#000"
-  overlay_filter: "0"
+  #overlay_color: "#000"
+  #overlay_filter: "0"
   overlay_image: assets/Homepage_cover.jpg
   #actions:
     #- label: "Download CV"
@@ -34,6 +34,7 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--inverse"
 ---
+//overlay_filter controls the opacity of the overlay color, which 0 denotes a complete transparency and 1 denotes a full color
 
 # About
 

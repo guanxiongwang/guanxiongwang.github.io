@@ -35,7 +35,7 @@ feature_row:
     btn_class: "btn--inverse"
 ---
 
-<welcome style="font-size:300%; font-family:Courier New; line-height:1.5;"><b><u>WELCOME</u></b></welcome>
+<welcome style="font-size:200%; font-family:Courier New; line-height:1;"><b><u>WELCOME</u></b></welcome>
 
 To know a little more about me, click [About](https://guanxiongwang.github.io/about-me/).
 

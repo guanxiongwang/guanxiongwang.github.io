@@ -35,10 +35,7 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--inverse"
 ---
-
-# WELCOME
-
-<welcome style="font-size:300%; font-family:Courier New; line-height:1.5;"><b>WELCOME</b></welcome>
+<welcome style="font-size:220%; font-family:Courier New;"><b>WELCOME</b></welcome>
 
 Hi, I'm Paige! 👋  I am a scientist by training, with a background in climate data science 👩‍💻 and physical oceanography 🌊. I have years of scientific and technical expertise in large-scale data analysis, open-source software, and cloud computing. By using open-source technology and human connection, I work to support and enable open science. I envision a future with robust, transparent, and inclusive scientific research, and believe that open science frameworks are the best tools to achieve this vision.
 
